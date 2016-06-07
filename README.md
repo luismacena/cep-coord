@@ -11,3 +11,6 @@ Framework usado:
 <ul>
   <li><a href="http://getskeleton.com" target="_blank">Skeleton</a></li>
 </ul>
+<br>
+<br>
+Com a ajuda de <a href="https://github.com/thiagorock22" target="_blank"><strong>@thiagorock22</strong></a>
